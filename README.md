@@ -42,8 +42,8 @@ print (Y_pred)
 plt.scatter(X,Y, color = "red")
 plt.plot(X,Y_pred,color ="green")
 plt.show()
-print("SUBRAMANIYA PILLAI.B")
-print("21006076")
+print("Saravana Kumar.S")
+print("21005866")
 
 ```
 ## Sample Input:
